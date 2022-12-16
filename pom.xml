@@ -18,7 +18,7 @@
         <!-- guava -->
         <guava.version>22.0</guava.version>
 
-        <spring.version>5.2.0.RELEASE</spring.version>
+        <spring.version>5.2.20.RELEASE</spring.version>
     </properties>
 
     <modules>
